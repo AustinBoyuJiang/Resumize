@@ -28,6 +28,5 @@ resume-modifier-project/
 │   ├── __init__.py
 │   └── helpers.py              # Helper functions and classes
 │
-├── venv/                        # Environment variables file
 ├── requirements.txt            # Dependencies list
 └── README.md                   # Project documentation
