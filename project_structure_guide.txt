@@ -1,0 +1,33 @@
+resume-modifier-project/
+│
+├── app/                        # Main application directory
+│   ├── __init__.py             # Makes app a Python package
+│   ├── main.py                 # Main application script
+│   ├── gpt_api_handler.py      # Module for GPT API interactions
+│   ├── pdf_manager.py          # Module for handling PDF operations
+│   ├── job_scraper.py          # Module for scraping job descriptions
+│   └── resume_builder.py       # Module for reconstructing modified resumes
+│
+├── ui/                         # User Interface directory
+│   ├── __init__.py             # Makes ui a Python package
+│   ├── web_interface/          # Web application files
+│   ├── app_interface/          # Web application files
+│   └── cli_interface.py        # Command Line Interface script (optional)
+│
+├── tests/                      # Testing directory
+│   ├── __init__.py             # Makes tests a Python package
+│   ├── test_gpt_api_handler.py # Tests for GPT API handler
+│   ├── test_pdf_manager.py     # Tests for PDF management
+│   └── test_job_scraper.py     # Tests for job scraper functionality
+│
+├── db/                         # Database related files (if any)
+│   ├── __init__.py
+│   └── database_manager.py     # Database management script
+│
+├── utils/                      # Utility functions and classes
+│   ├── __init__.py
+│   └── helpers.py              # Helper functions and classes
+│
+├── venv/                        # Environment variables file
+├── requirements.txt            # Dependencies list
+└── README.md                   # Project documentation
