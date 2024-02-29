@@ -1,0 +1,623 @@
+{
+   "public_identifier":"epic-eric",
+   "profile_pic_url":"https://media.licdn.com/dms/image/D5603AQEhH2hZWc1EQA/profile-displayphoto-shrink_400_400/0/1697596055158?e=1714608000&v=beta&t=37r21JBqKmCaG432bkeMjNvlLgdoOLjCNkAqBj7hK-c",
+   "background_cover_image_url":"None",
+   "first_name":"Eric",
+   "last_name":"Xie",
+   "full_name":"Eric Xie",
+   "follower_count":458,
+   "occupation":"Robotics Instructor at UTG Academy",
+   "headline":"Grade 12 IB Student at WVSS, BC Chess Champion, VEX Robotics Worlds Competitor, Shad Ambassador - \"Improve 1% a day, 37.8 times better a year\"",
+   "summary":"Hey there!\nMy name is Eric, formal name Tao Xie, and I am a Grade 12 IB Diploma student here at West Vancouver Secondary School in BC, Canada.\nI am passionate about pursuing a career in the STEM field, and my hobbies include: VEX and FRC robotics, competitive programming, chess, and sports.\nI would like to learn more about: AI, deep learning, cyber-security, and computer vision.\nPlease feel free to send me a message for any collaboration or inquiry!\nEric Xie",
+   "country":"CA",
+   "country_full_name":"Canada",
+   "city":"West Vancouver",
+   "state":"British Columbia",
+   "experiences":[
+      {
+         "starts_at":{
+            "day":1,
+            "month":7,
+            "year":2021
+         },
+         "ends_at":"None",
+         "company":"West Vancouver Otters Swim Club",
+         "company_linkedin_profile_url":"None",
+         "title":"Lead Swimmer - YDG",
+         "description":"• Youth Development Group lead swimmer\n• Train >6h per week",
+         "location":"West Vancouver, British Columbia, Canada",
+         "logo_url":"None"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":9,
+            "year":2020
+         },
+         "ends_at":"None",
+         "company":"West Van Chess Club",
+         "company_linkedin_profile_url":"None",
+         "title":"Founder",
+         "description":"• Founder and leader of my high school's chess club\n• Organized matches with schools in the district\n• Host meetings every week to discuss key chess opening / strategy / endgame ideas",
+         "location":"West Vancouver, British Columbia, Canada",
+         "logo_url":"None"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":6,
+            "year":2023
+         },
+         "ends_at":"None",
+         "company":"UBC Geering Up Engineering Outreach",
+         "company_linkedin_profile_url":"https://www.linkedin.com/company/geering-up-ubc-engineering-&-science-for-kids",
+         "title":"UBC STEM Leaders in Training",
+         "description":"As part of STEM LP, we work on social development projects (SDPs), while developing technical skills and soft skills, such as Arduino, soldering, resume building, and interview tips. During the summer, we volunteer as Junior Instructors (JIs), where we assist the instructors in preparing materials, plan and develop lessons, in order to educate kids of all ages about STEM topic, from astronautics to Scratch coding.",
+         "location":"Vancouver, British Columbia, Canada · On-site",
+         "logo_url":"https://media.licdn.com/dms/image/D560BAQGIqpiG0s-fHw/company-logo_400_400/0/1700631904576/geering_up_ubc_engineering__science_for_kids_logo?e=1717027200&v=beta&t=7xdLTLlGODgF27PN87POxd5oayfuR1pXRvhHbQdsrmc"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":6,
+            "year":2023
+         },
+         "ends_at":"None",
+         "company":"Vancouver Ultimate League",
+         "company_linkedin_profile_url":"https://www.linkedin.com/company/vancouver-ultimate",
+         "title":"Ascent Ultimate Frisbee Team Player",
+         "description":"I was selected to play ultimate frisbee, competing with the team both provincially and nationally throughout the summer season.",
+         "location":"West Vancouver, British Columbia, Canada · On-site",
+         "logo_url":"https://media.licdn.com/dms/image/C560BAQE25x8ID3kJAQ/company-logo_400_400/0/1631045137819/vancouver_ultimate_logo?e=1717027200&v=beta&t=X1n8d_qFJhu5YQ4zP0ajfJJrTaW4GUIQSOwU3aoFnc4"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":8,
+            "year":2022
+         },
+         "ends_at":"None",
+         "company":"Shad Canada",
+         "company_linkedin_profile_url":"https://www.linkedin.com/company/shadcanada",
+         "title":"Ambassador",
+         "description":"• I introduce Shad and share my experiences with my community so they can benefit, enjoy STEAM learning and develop lifelong skills.",
+         "location":"West Vancouver, British Columbia, Canada",
+         "logo_url":"https://media.licdn.com/dms/image/C560BAQF1LDNyWRCXhw/company-logo_400_400/0/1630586680800/shadcanada_logo?e=1717027200&v=beta&t=_AS6NF12QJH_A5A34seqJKA4KGq7w1g5mythAR5kqe0"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":7,
+            "year":2022
+         },
+         "ends_at":"None",
+         "company":"Shad Canada",
+         "company_linkedin_profile_url":"https://www.linkedin.com/company/shadcanada",
+         "title":"Shad Fellow",
+         "description":"• 1 of 1000 high school students selected to attend Shad Canada, a month-long STEM program.\n• CEO of Nail Braille, a startup company that helps newly visually impaired people learn braille using Google voice recognition technology and Arduino electronics.",
+         "location":"London, Ontario, Canada",
+         "logo_url":"https://media.licdn.com/dms/image/C560BAQF1LDNyWRCXhw/company-logo_400_400/0/1630586680800/shadcanada_logo?e=1717027200&v=beta&t=_AS6NF12QJH_A5A34seqJKA4KGq7w1g5mythAR5kqe0"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":7,
+            "year":2022
+         },
+         "ends_at":"None",
+         "company":"Shad Canada",
+         "company_linkedin_profile_url":"https://www.linkedin.com/company/shadcanada",
+         "title":"Nail Braille Chief Engineering Officer",
+         "description":"• Nail Braille is Canada’s first-ever speech-to-text Braille learning tool\n• Our product makes learning braille - a tactile medium of communication - easy, independent, and accessible\n• Our goal as a company is to improve the overall well beings of Canadians, particularly those with visual impairment in order to help them navigate their environment and relieve their stress with communication",
+         "location":"London, Ontario, Canada",
+         "logo_url":"https://media.licdn.com/dms/image/C560BAQF1LDNyWRCXhw/company-logo_400_400/0/1630586680800/shadcanada_logo?e=1717027200&v=beta&t=_AS6NF12QJH_A5A34seqJKA4KGq7w1g5mythAR5kqe0"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":8,
+            "year":2022
+         },
+         "ends_at":"None",
+         "company":"parkrun",
+         "company_linkedin_profile_url":"https://www.linkedin.com/company/parkrun",
+         "title":"Run Director",
+         "description":"• Parkrun is a free, fun, and friendly weekly 5k community event. Participants can run, jog, walk or spectate at their choosing\n• Organize Parkrun event at Ambleside Beach every Saturday\n• My roles include: Run Director, Photographer, Timekeeper, Marshal, Tail walkers.\n• I built a stronger bond with my community and encouraged especially elderlies to be physically active and immerse in our friendly environment!",
+         "location":"West Vancouver, British Columbia, Canada",
+         "logo_url":"https://media.licdn.com/dms/image/D4E0BAQFutfXVvmSP7w/company-logo_400_400/0/1704109308888/parkrun_logo?e=1717027200&v=beta&t=TmrbOWis-aBUNbSqRBGG9JgLtCAtmaH5jClUzUO9EXE"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":10,
+            "year":2021
+         },
+         "ends_at":"None",
+         "company":"VEX Robotics",
+         "company_linkedin_profile_url":"https://www.linkedin.com/company/vexrobotics",
+         "title":"Tournament Director",
+         "description":"• VEX IQ Volunteer of the Year - 2022, 2023\n• As a tournament director, I recruit managers, judges, and referees to run VEX Robotics tournaments. \n• I set up and take down the equipment and fields before and after competitions\n• I invite and encourage teams to register for the tournament\n• I supervise volunteers and provide them with instructions on how to operate tournament hardwares and softwares\n• I take care of logistics, including food delivery and time scheduling\n• I offer teams with outstanding achievements prizes and awards",
+         "location":"West Vancouver, British Columbia, Canada",
+         "logo_url":"https://media.licdn.com/dms/image/C4E0BAQGXoZ0WNpBRtQ/company-logo_400_400/0/1630590129452/vex_robotics_logo?e=1717027200&v=beta&t=2BlfILCxCI-zUBI_Z-1bdDmmKgfiwcQqeaU7SyC_Ggg"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":9,
+            "year":2021
+         },
+         "ends_at":"None",
+         "company":"VEX Robotics",
+         "company_linkedin_profile_url":"https://www.linkedin.com/company/vexrobotics",
+         "title":"Robotics Engineer",
+         "description":"Part of Ten Ton Robotics, Team number 1011W, currently 1010W\n• VEX World Championship Qualifier\n• VEX BC Provincial Finalist\n• VEX Macau Championship Robot Skills Champion\n• VEX Burnsview Cup Tournament Champion\n• VEX Burnsview Cup Amaze Award",
+         "location":"West Vancouver, British Columbia, Canada",
+         "logo_url":"https://media.licdn.com/dms/image/C4E0BAQGXoZ0WNpBRtQ/company-logo_400_400/0/1630590129452/vex_robotics_logo?e=1717027200&v=beta&t=2BlfILCxCI-zUBI_Z-1bdDmmKgfiwcQqeaU7SyC_Ggg"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":6,
+            "year":2023
+         },
+         "ends_at":"None",
+         "company":"West Vancouver Secondary School - WVSS",
+         "company_linkedin_profile_url":"https://www.linkedin.com/company/west-vancouver-secondary-school-wvss",
+         "title":"Grad Committee Member",
+         "description":"I was elected to the 2023-2024 Grad Committee, among 12 members. As our class enters graduation season next year, we are ready to plan fun and exciting events, ensuring that everyone enjoys their final (Grade 12) high school year.",
+         "location":"West Vancouver, British Columbia, Canada · On-site",
+         "logo_url":"https://media.licdn.com/dms/image/C4E0BAQG0IlNyeZTH1A/company-logo_400_400/0/1630588714888?e=1717027200&v=beta&t=s2iYla-MamORhKBzf9BpI6VFdCb2CHgUkwphG4Ensfg"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":9,
+            "year":2022
+         },
+         "ends_at":"None",
+         "company":"West Vancouver Secondary School - WVSS",
+         "company_linkedin_profile_url":"https://www.linkedin.com/company/west-vancouver-secondary-school-wvss",
+         "title":"IB Student Council Event Organizer",
+         "description":"• As a member of the WVSS IB Student Council, I participate in weekly planning meetings, and organizing future events for IB students in order to promote socializing and stress relieving.",
+         "location":"West Vancouver, British Columbia, Canada · On-site",
+         "logo_url":"https://media.licdn.com/dms/image/C4E0BAQG0IlNyeZTH1A/company-logo_400_400/0/1630588714888?e=1717027200&v=beta&t=s2iYla-MamORhKBzf9BpI6VFdCb2CHgUkwphG4Ensfg"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":9,
+            "year":2021
+         },
+         "ends_at":{
+            "day":31,
+            "month":8,
+            "year":2022
+         },
+         "company":"West Vancouver Secondary School - WVSS",
+         "company_linkedin_profile_url":"https://www.linkedin.com/company/west-vancouver-secondary-school-wvss",
+         "title":"Student Council Marketing Team Member",
+         "description":"• Design posters to inform and encourage students at WVSS to participate in school-wide activities and festivals\n• Use social media to market our events so we can reach a wider audience",
+         "location":"None",
+         "logo_url":"https://media.licdn.com/dms/image/C4E0BAQG0IlNyeZTH1A/company-logo_400_400/0/1630588714888?e=1717027200&v=beta&t=s2iYla-MamORhKBzf9BpI6VFdCb2CHgUkwphG4Ensfg"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":7,
+            "year":2023
+         },
+         "ends_at":"None",
+         "company":"UTG Academy",
+         "company_linkedin_profile_url":"https://www.linkedin.com/company/utg-academy",
+         "title":"Robotics Instructor",
+         "description":"As the summer robotics instructor at Under the GUI Academy, I introduced students aged 9-17 to VEX IQ and V5 Robotics. \nFor the IQ students, I helped them develop essential STEM skills such as design, coding, as well as soft skills, such as empathy and teamwork. I organized games, like capture the flag or freeze tag so that students have fun while learning something new through hands-on activities.\nFor the V5 Competitive Robotics, I introduced students to the 2023 Challenge \"Over Under\". I led the brainstorming process, explained engineering concepts such as gear ratio and wiring, allowed students to fully optimize their creation, and expanded their engineering skill set.\nOverall, both groups of students benefited tremendously from UTG\\'s robotics summer camp.",
+         "location":"North Vancouver, British Columbia, Canada · On-site",
+         "logo_url":"https://media.licdn.com/dms/image/C4D0BAQGJa-86j_q4PQ/company-logo_400_400/0/1631319372820?e=1717027200&v=beta&t=zYi3wGDYtSh1J2hOvGC5L1WYhQfvgbkcMnMpoHedYHM"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":8,
+            "year":2023
+         },
+         "ends_at":{
+            "day":31,
+            "month":8,
+            "year":2023
+         },
+         "company":"West Vancouver Police",
+         "company_linkedin_profile_url":"https://www.linkedin.com/company/97354838/",
+         "title":"Police Cadet",
+         "description":"From a pool of 60 applicants, I was 1 of 12 high school students chosen to participate in the 2023 West Vancouver Police Youth Academy. During the 5-day camp, we learned how to handcuff, how to match fingerprints, how to handle K-9 police dogs, and how to conduct search and rescue in mountainous regions. Furthermore, we toured an ambulance, took off in a helicopter, completed the POPAT, and exercised with intensive daily workouts. Overall, we experienced, hands-on, the ins and outs of what it's like to be a police officer.",
+         "location":"West Vancouver, British Columbia, Canada · On-site",
+         "logo_url":"None"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":1,
+            "year":2022
+         },
+         "ends_at":{
+            "day":30,
+            "month":6,
+            "year":2023
+         },
+         "company":"Webbednet",
+         "company_linkedin_profile_url":"https://www.linkedin.com/company/80757123/",
+         "title":"Vice President",
+         "description":"• Webbednet is a software company that connects people across the globe. Our software helps all people, like job applicants, and people trying to build relationships\n• As the Vice President, I find ways to market our startup company, develop technology for our social media platform, and connect people online",
+         "location":"West Vancouver, British Columbia, Canada",
+         "logo_url":"None"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":1,
+            "year":2023
+         },
+         "ends_at":{
+            "day":30,
+            "month":4,
+            "year":2023
+         },
+         "company":"FIRST Robotics Canada",
+         "company_linkedin_profile_url":"https://www.linkedin.com/company/first-robotics-canada",
+         "title":"6364 Programming Team Member",
+         "description":"I am on team 6364 programming team. I mainly worked on developing an auto-balancing code for this year\\'s game \"Charged Up\".",
+         "location":"West Vancouver, British Columbia, Canada · On-site",
+         "logo_url":"https://media.licdn.com/dms/image/C4D0BAQFjDBJ4qmJxLg/company-logo_400_400/0/1631320827997?e=1717027200&v=beta&t=nv_RitcP5lk1ZJOefLwMpCGgatXi9nmRvnaVRLzY5mw"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":8,
+            "year":2022
+         },
+         "ends_at":{
+            "day":31,
+            "month":3,
+            "year":2023
+         },
+         "company":"West Vancouver Community Centre",
+         "company_linkedin_profile_url":"https://www.linkedin.com/company/west-vancouver-community-centre",
+         "title":"Volunteer Advisor",
+         "description":"• Evaluate and improve the current volunteer model in the district of West Vancouver\n• Provide feedback on the method of operations as the sounding board\n• Recruit volunteers and encourage them to participate in community services and special events\n• Offer youth volunteers awards for retention purposes, whose award I eventually won.",
+         "location":"West Vancouver, British Columbia, Canada · On-site",
+         "logo_url":"None"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":8,
+            "year":2022
+         },
+         "ends_at":{
+            "day":28,
+            "month":2,
+            "year":2023
+         },
+         "company":"Scouts Canada",
+         "company_linkedin_profile_url":"https://www.linkedin.com/company/scouts-canada",
+         "title":"Beaver Group Leader",
+         "description":"• Lead activities for Beaver-aged children, 5-7 years old\n• Schedule camping trips\n• Organize logistics and supplies",
+         "location":"West Vancouver, British Columbia, Canada",
+         "logo_url":"https://media.licdn.com/dms/image/C4E0BAQEeeA37liOEZQ/company-logo_400_400/0/1631322772100?e=1717027200&v=beta&t=fWV5n8uqdy9yzprnYh9NeEc9bavk_2JZTDJ1HzjzLXM"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":7,
+            "year":2021
+         },
+         "ends_at":{
+            "day":31,
+            "month":8,
+            "year":2021
+         },
+         "company":"Columbia University in the City of New York",
+         "company_linkedin_profile_url":"https://www.linkedin.com/company/columbia-university",
+         "title":"Summer School Student",
+         "description":"• Columbia University Online Pre-College Summer Immersion Program\n• \"Physics and Technologies of the Future\" Course \n• As a summer school student, I gained tremendous insights into the prospects of future technologies, learned how to read and write science papers and interacted with my classmates in the course - who are all capable and prospective future individuals whom I am keeping contact with.",
+         "location":"New York, United States",
+         "logo_url":"https://media.licdn.com/dms/image/C4E0BAQFxn78nvVaTDA/company-logo_400_400/0/1630638452046/columbia_university_logo?e=1717027200&v=beta&t=OQ240M2_Z6Ht7_D_ur_MDyB5PeQcE_i3aRQz2IpwRLQ"
+      }
+   ],
+   "education":[
+      {
+         "starts_at":{
+            "day":1,
+            "month":9,
+            "year":2019
+         },
+         "ends_at":{
+            "day":30,
+            "month":6,
+            "year":2024
+         },
+         "field_of_study":"None",
+         "degree_name":"IB Diploma",
+         "school":"West Vancouver Secondary School",
+         "school_linkedin_profile_url":"None",
+         "description":"None",
+         "logo_url":"None",
+         "grade":"12",
+         "activities_and_societies":"• Chess Club Founder & Leader\n• Student Council Marketing Club\n• IB Diploma Student\n• IB Student Council Event Organizer\n• School Cross-Country & Track and Field Team\n• Honours with Distinction 2019 - 2023"
+      }
+   ],
+   "languages":[
+      "English",
+      "French",
+      "Mandarin"
+   ],
+   "accomplishment_organisations":[
+      
+   ],
+   "accomplishment_publications":[
+      {
+         "name":"Math Led to a Health Emergency",
+         "publisher":"Polar Expressions Publishing",
+         "published_on":{
+            "day":15,
+            "month":4,
+            "year":2021
+         },
+         "description":"My short story \"Math Led to a Health Emergency\" won the National Student Short-Story Contest Top Entry award and was published in the 2021 \"The Quiet\" magazine.",
+         "url":"None"
+      }
+   ],
+   "accomplishment_honors_awards":[
+      {
+         "title":"Ten Ton Robotics Mousebot Tournament Champion",
+         "issuer":"Ten Ton Robotics Academy",
+         "issued_on":{
+            "day":1,
+            "month":6,
+            "year":2023
+         },
+         "description":"Our team competed in the Mousebot tournament, designed by our academy, where our team 8M scored consistently throughout the games, placing us 1st out of 50 academy teams."
+      },
+      {
+         "title":"VEX IQ Volunteer of the Year",
+         "issuer":"VEX Robotics",
+         "issued_on":{
+            "day":1,
+            "month":6,
+            "year":2023
+         },
+         "description":"I volunteered in multiple Tournament Director and Tournament Manager positions, responsible for setting up the hardware and software to ensure a successful tournament."
+      }
+   ],
+   "accomplishment_patents":[
+      
+   ],
+   "accomplishment_courses":[
+      {
+         "name":"Physics and Technologies of the Future - Columbia University",
+         "number":"10516"
+      }
+   ],
+   "accomplishment_projects":[
+      {
+         "starts_at":{
+            "day":1,
+            "month":6,
+            "year":2023
+         },
+         "ends_at":{
+            "day":31,
+            "month":8,
+            "year":2023
+         },
+         "title":"Vita",
+         "description":"🎯 As part of the 2023 UBC STEM Leadership program, our team of 6 high school students was tasked with a sustainable design challenge. The goal was to create a project that promotes sustainability in engineering following one or more of the 17 UN Sustainable Development goals.\n💡 The product we proposed was a scalable, zero-electricity, low-cost water-filtration bottle, which we called Vita. With this project, we aimed to help indigenous communities living in rural areas of British Columbia access safe drinking water from lakes and rivers, which due to colonial and historical reasons, remain polluted and under boil-water advisories. With our help, we strive to alleviate the indigenous water crisis, and moreover, we hope to help a wider group of low-income communities access clean drinking water, while reducing plastic waste in single-use water bottles and promoting environmental sustainability.\n🛠️ Vita consists of several compartments: the outer chamber, the inner chamber connected to a filter, and the cap, and it works similar to a piston. First, you would fill the outer cylinder with unclean water, then you would attach the inner chamber and press down on it. The pressure forces the water to flow through the semi-permeable filter, trapping impurities at the bottom of the outer bottle, while clean water passes and fills the inner bottle. For convenience, we also designed a threaded cap that allows users to remove the inner chamber and retain clean water. The entire process takes around 20 seconds: (demonstration below). Our product could be lifesaving for hikers trapped on mountains, or reserves far from a clean water supply\n✔️ Within 3 months, we created a fully functional prototype, a poster board, and our website to document our journey and collective experiences.\n🏆 Our team presented at the STEM LP Gala and has plans to continue working on this project in the future.",
+         "url":"None"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":7,
+            "year":2022
+         },
+         "ends_at":{
+            "day":28,
+            "month":2,
+            "year":2023
+         },
+         "title":"Nail Braille",
+         "description":"🎯 The challenge for SHAD 2022 was to create a product that improves the wellness of Canadians. With this goal in mind, my group and I created a braille learning device focused on helping those who are transitioning from sight to blindness. \n💡 The product we proposed uses speech-to-text to listen for words. Our algorithm will then translate the sound into English, then into braille. Using a series of commands, pins on a board will pop up and down to spell the word in braille. The user then could physically feel the pins, learning what they have said in braille. Our product ensures that learning braille can be done independently, and because the device is small, lightweight, and portable, it can be used in a variety of situations. It would also be much cheaper and more accessible than any other current market competitors, for example, a braille tutor or a braille book.\n🛠️ Our prototype was created to test the feasibility of using speech-to-text to control the braille pins. Instead of using actual braille pins, we used LED lights which would eventually turn into pins controlled by pistons. By using a computer to run Mozilla's open-source Deepspeech engine and an Arduino controlling LED lights, we were able to demonstrate that our concept was not only attainable, but practical and marketable.\n✔️ Within the month, we created a fully functional MVP prototype, business plan, and a successful pitch, which we presented to a panel of judges. \n🏆 Our team won the SHAD Western Best Prototype award and has plans to continue working on this project via grants in the future.",
+         "url":"None"
+      }
+   ],
+   "accomplishment_test_scores":[
+      {
+         "name":"PSAT",
+         "score":"1490",
+         "date_on":{
+            "day":1,
+            "month":10,
+            "year":2021
+         },
+         "description":"I scored 99% Percentile with full marks in the Math sections."
+      }
+   ],
+   "volunteer_work":[
+      {
+         "starts_at":{
+            "day":1,
+            "month":9,
+            "year":2022
+         },
+         "ends_at":"None",
+         "title":"Tournament Director",
+         "cause":"Science and Technology",
+         "company":"VEX Robotics",
+         "company_linkedin_profile_url":"https://www.linkedin.com/company/3573359/",
+         "description":"I set up the hardware as well as the software to ensure that the tournament runs smoothly. Hardwares include: tables, chairs, judging pits, inspection areas. Softwares include: TM Mobile for the inspectors, score keeper referees, and judges. I am responsible for recruiting and training volunteers, and taking care of the logistics such as food allocation and technical difficulties.",
+         "logo_url":"https://media.licdn.com/dms/image/C4E0BAQGXoZ0WNpBRtQ/company-logo_400_400/0/1630590129452/vex_robotics_logo?e=1717027200&v=beta&t=2BlfILCxCI-zUBI_Z-1bdDmmKgfiwcQqeaU7SyC_Ggg"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":2,
+            "year":2022
+         },
+         "ends_at":"None",
+         "title":"Tournament Manager",
+         "cause":"Science and Technology",
+         "company":"VEX Robotics",
+         "company_linkedin_profile_url":"https://www.linkedin.com/company/3573359/",
+         "description":"I set up the software, Tournament Manager on the main server computer. Then I connect other operating devices to the server, as well as monitors that need to display match scores, inspection status, standings and so on. I am responsible for fixing problems that occur throughout a tournament (which always happen) in a timely and productive manner.",
+         "logo_url":"https://media.licdn.com/dms/image/C4E0BAQGXoZ0WNpBRtQ/company-logo_400_400/0/1630590129452/vex_robotics_logo?e=1717027200&v=beta&t=2BlfILCxCI-zUBI_Z-1bdDmmKgfiwcQqeaU7SyC_Ggg"
+      }
+   ],
+   "certifications":[
+      {
+         "starts_at":{
+            "day":1,
+            "month":5,
+            "year":2021
+         },
+         "ends_at":{
+            "day":31,
+            "month":5,
+            "year":2024
+         },
+         "name":"Standard First Aid, CPR and AED",
+         "license_number":"3765848",
+         "display_source":"None",
+         "authority":"Lifesaving Society Canada",
+         "url":"None"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":6,
+            "year":2021
+         },
+         "ends_at":{
+            "day":31,
+            "month":12,
+            "year":2023
+         },
+         "name":"Bronze Cross",
+         "license_number":"3765848",
+         "display_source":"None",
+         "authority":"Lifesaving Society Canada",
+         "url":"None"
+      }
+   ],
+   "connections":445,
+   "people_also_viewed":[
+      {
+         "link":"https://www.linkedin.com/in/saryu-rawaley-b99793226?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADi2Z-UBw6POwiPCBGmA4vU_dlFtLQ3KNLg",
+         "name":"Saryu Rawaley",
+         "summary":"McMaster Engineering | Software & Programming Enthusiast",
+         "location":"None"
+      },
+      {
+         "link":"https://www.linkedin.com/in/tim-jackson-611ab412?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAKncW0B4DvRGO2eZlWYlY3JLLjMODGPlaA",
+         "name":"Tim Jackson",
+         "summary":"President & CEO at Shad Canada",
+         "location":"None"
+      },
+      {
+         "link":"https://www.linkedin.com/in/shad-canada-b6272418?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAOql3oBPAh5cgOjG4M9g2aRW7jyZynzAhQ",
+         "name":"Shad Canada",
+         "summary":"Shad Canada",
+         "location":"None"
+      },
+      {
+         "link":"https://www.linkedin.com/in/yaohan-jin-559413257?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD8-SFUBx4ruOPcbM-QMP2zv74WGarna-HA",
+         "name":"Yaohan Jin",
+         "summary":"Student at West Vancouver Secondary School - WVSS | Shad Mum 2023 Alumni | Shad Ambassador |",
+         "location":"None"
+      },
+      {
+         "link":"https://www.linkedin.com/in/ocui?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADziTHMBFDkOzNeOB5sfc9KFVl6c3eVDg1I",
+         "name":"Owen Cui",
+         "summary":"1st Year Uni Student | UWaterloo CS Honors | Co-Founder and Vice-President @ Sunshine Band Club | Shad Fellow",
+         "location":"None"
+      }
+   ],
+   "recommendations":[
+      
+   ],
+   "activities":[
+      
+   ],
+   "similarly_named_profiles":[
+      
+   ],
+   "articles":[
+      
+   ],
+   "groups":[
+      {
+         "profile_pic_url":"https://media.licdn.com/dms/image/C4D07AQHQyoqpbvwhLA/group-logo_image-shrink_48x48/0/1538129557777?e=1709802000&v=beta&t=kVd1BdWoeZMMlyqd5qS-9VKBrE2MS11eH1_1r7ks7HA",
+         "name":"Machine Learning Community (Moderated)",
+         "url":"https://www.linkedin.com/groups/961087"
+      },
+      {
+         "profile_pic_url":"https://media.licdn.com/dms/image/C5607AQECv7XdeeWthQ/group-logo_image-shrink_400x400/0/1631011598104?e=1709802000&v=beta&t=KjwxuyKU9lA9e_KbKBLBx_POeARL3IZKV3IGevaJb48",
+         "name":"Columbia Programs for High School Students Community\\xa0",
+         "url":"https://www.linkedin.com/groups/13970766"
+      }
+   ],
+   "skills":[
+      "Active Learning",
+      "Strategic Thinking",
+      "Analytical Skills",
+      "Arduino IDE",
+      "Collaborative Problem Solving",
+      "Computer-Aided Design (CAD)",
+      "Onshape",
+      "STEM",
+      "Robotics",
+      "Leadership",
+      "Chess",
+      "Event Planning",
+      "Teamwork",
+      "Grit",
+      "Digital Marketing",
+      "Communication",
+      "Graphic Design",
+      "Volunteering",
+      "Fitness",
+      "Social Services",
+      "Community Outreach",
+      "Organization Skills",
+      "Project Management",
+      "Team Leadership",
+      "Volunteer Management",
+      "Public Speaking",
+      "Child Development",
+      "Public Relations",
+      "Social Media",
+      "Critical Thinking",
+      "Engineering",
+      "Entrepreneurship",
+      "Sports"
+   ],
+   "inferred_salary":{
+      "min":"None",
+      "max":"None"
+   },
+   "gender":"None",
+   "birth_date":"None",
+   "industry":"None",
+   "extra":{
+      "github_profile_id":"None",
+      "twitter_profile_id":"None",
+      "facebook_profile_id":"None"
+   },
+   "interests":[
+      
+   ],
+   "personal_emails":[
+      
+   ],
+   "personal_numbers":[
+      
+   ]
+}

@@ -1,0 +1,471 @@
+{
+    "public_identifier":"austin-boyu-jiang",
+    "profile_pic_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/person/austin-boyu-jiang/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240229%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240229T082910Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=8840076cdd5802db97e5b9c540f8bfa717d3a500b6620b7b8ddb8d7448a986af",
+    "background_cover_image_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/person/austin-boyu-jiang/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240229%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240229T082910Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=790e00ec10fcb9f8c043747307d81cd3b527ec7e8d4cd6b4ca52a1dcbf9174e7",
+    "first_name":"Austin",
+    "last_name":"Jiang",
+    "full_name":"Austin Jiang",
+    "follower_count":244,
+    "occupation":"Contest Director at DMOJ: Modern Online Judge",
+    "headline":"IB Diploma student @West Vancouver S.S. | Competitive Programmer | DMOJ Problem Setter | Full-stack Developer | “Tech otakus can save the world”",
+    "summary":"I am Austin, a Grade 11 IB Diploma student at West Vancouver Secondary School, specializing in competitive programming. My strong problem-solving skills are complemented by my passion for game development, where I create immersive experiences through compelling narratives and cutting-edge technology. Currently, I am diving into the world of artificial intelligence, focusing on developing applications that could significantly benefit society and enhance efficiency. I am always open to new challenges and opportunities for learning. Feel free to connect as we navigate this exciting world of technology together.",
+    "country":"CA",
+    "country_full_name":"Canada",
+    "city":"West Vancouver",
+    "state":"British Columbia",
+    "experiences":[
+       {
+          "starts_at":{
+             "day":1,
+             "month":9,
+             "year":2020
+          },
+          "ends_at":"None",
+          "company":"CodeForces",
+          "company_linkedin_profile_url":"https://www.linkedin.com/company/codeforces01",
+          "title":"Competitive Programmer",
+          "description":"None",
+          "location":"Remote",
+          "logo_url":"https://media.licdn.com/dms/image/C510BAQH9HO8sfdUS6w/company-logo_400_400/0/1630585213431?e=1717027200&v=beta&t=QYgWPUGX0CtRBn0Q7Yz3n7ptbaG4K4mDFx-luDjp1lw"
+       },
+       {
+          "starts_at":{
+             "day":1,
+             "month":8,
+             "year":2023
+          },
+          "ends_at":"None",
+          "company":"DMOJ: Modern Online Judge",
+          "company_linkedin_profile_url":"https://www.linkedin.com/company/dmoj",
+          "title":"Contest Director",
+          "description":"Direct two rated contests for Happy Hackers Foundation",
+          "location":"Canada · Remote",
+          "logo_url":"https://media.licdn.com/dms/image/C4D0BAQEYu0XTlHGbpw/company-logo_400_400/0/1630518151972/dmoj_logo?e=1717027200&v=beta&t=f74U3-R6Get6JeY3FixvWNY5loCm0yRWTpKHyVSmoVg"
+       },
+       {
+          "starts_at":{
+             "day":1,
+             "month":10,
+             "year":2022
+          },
+          "ends_at":"None",
+          "company":"DMOJ: Modern Online Judge",
+          "company_linkedin_profile_url":"https://www.linkedin.com/company/dmoj",
+          "title":"Problem Setter",
+          "description":"Skills: Problem Solving · Competitive Programming · Algorithms · Communication · C++",
+          "location":"Canada · Remote",
+          "logo_url":"https://media.licdn.com/dms/image/C4D0BAQEYu0XTlHGbpw/company-logo_400_400/0/1630518151972/dmoj_logo?e=1717027200&v=beta&t=f74U3-R6Get6JeY3FixvWNY5loCm0yRWTpKHyVSmoVg"
+       },
+       {
+          "starts_at":{
+             "day":1,
+             "month":9,
+             "year":2021
+          },
+          "ends_at":"None",
+          "company":"GitHub",
+          "company_linkedin_profile_url":"https://www.linkedin.com/company/github",
+          "title":"Full Stack Developer",
+          "description":"None",
+          "location":"Remote",
+          "logo_url":"https://media.licdn.com/dms/image/C560BAQFmuLSyL1nlPA/company-logo_400_400/0/1678231359044/github_logo?e=1717027200&v=beta&t=v-B_61doemX39cJnurD9bmeDbops6XL1GMNPYayvmiU"
+       },
+       {
+          "starts_at":{
+             "day":1,
+             "month":8,
+             "year":2023
+          },
+          "ends_at":"None",
+          "company":"Shad Canada",
+          "company_linkedin_profile_url":"https://www.linkedin.com/company/shadcanada",
+          "title":"Shad Alumni",
+          "description":"Skills: Communication",
+          "location":"Sudbury, Ontario, Canada · Remote",
+          "logo_url":"https://media.licdn.com/dms/image/C560BAQF1LDNyWRCXhw/company-logo_400_400/0/1630586680800/shadcanada_logo?e=1717027200&v=beta&t=_AS6NF12QJH_A5A34seqJKA4KGq7w1g5mythAR5kqe0"
+       },
+       {
+          "starts_at":{
+             "day":1,
+             "month":8,
+             "year":2023
+          },
+          "ends_at":{
+             "day":31,
+             "month":1,
+             "year":2024
+          },
+          "company":"Shad Canada",
+          "company_linkedin_profile_url":"https://www.linkedin.com/company/shadcanada",
+          "title":"Shad Ambassador",
+          "description":"Skills: Presentation Skills · Public Speaking · Communication",
+          "location":"None",
+          "logo_url":"https://media.licdn.com/dms/image/C560BAQF1LDNyWRCXhw/company-logo_400_400/0/1630586680800/shadcanada_logo?e=1717027200&v=beta&t=_AS6NF12QJH_A5A34seqJKA4KGq7w1g5mythAR5kqe0"
+       },
+       {
+          "starts_at":{
+             "day":1,
+             "month":7,
+             "year":2023
+          },
+          "ends_at":{
+             "day":31,
+             "month":7,
+             "year":2023
+          },
+          "company":"Shad Canada",
+          "company_linkedin_profile_url":"https://www.linkedin.com/company/shadcanada",
+          "title":"Shad Fellow",
+          "description":"Skills: Collaborative Problem Solving · Presentation Skills · Research Skills · Public Speaking · Communication",
+          "location":"Sudbury, Ontario, Canada · On-site",
+          "logo_url":"https://media.licdn.com/dms/image/C560BAQF1LDNyWRCXhw/company-logo_400_400/0/1630586680800/shadcanada_logo?e=1717027200&v=beta&t=_AS6NF12QJH_A5A34seqJKA4KGq7w1g5mythAR5kqe0"
+       },
+       {
+          "starts_at":{
+             "day":1,
+             "month":7,
+             "year":2023
+          },
+          "ends_at":{
+             "day":31,
+             "month":7,
+             "year":2023
+          },
+          "company":"Shad Canada",
+          "company_linkedin_profile_url":"https://www.linkedin.com/company/shadcanada",
+          "title":"Social Media Committee Member - SHAD Laurentian 2023",
+          "description":"As a member of the SHAD Laurentian 2023 Social Media Committee, I collaborated with a team to manage our campus's social media presence across Twitter, Instagram, and TikTok. We boosted visibility, fostered community, and effectively communicated with our audience through tailored content.",
+          "location":"Sudbury, Ontario, Canada · On-site",
+          "logo_url":"https://media.licdn.com/dms/image/C560BAQF1LDNyWRCXhw/company-logo_400_400/0/1630586680800/shadcanada_logo?e=1717027200&v=beta&t=_AS6NF12QJH_A5A34seqJKA4KGq7w1g5mythAR5kqe0"
+       },
+       {
+          "starts_at":{
+             "day":1,
+             "month":2,
+             "year":2023
+          },
+          "ends_at":"None",
+          "company":"UTG Academy",
+          "company_linkedin_profile_url":"https://www.linkedin.com/company/utg-academy",
+          "title":"Coding Instructor",
+          "description":"Coding instructor at UTG Academy, teaching game development with Python and Unity, Web Development",
+          "location":"North Vancouver, British Columbia, Canada · On-site",
+          "logo_url":"https://media.licdn.com/dms/image/C4D0BAQGJa-86j_q4PQ/company-logo_400_400/0/1631319372820?e=1717027200&v=beta&t=zYi3wGDYtSh1J2hOvGC5L1WYhQfvgbkcMnMpoHedYHM"
+       },
+       {
+          "starts_at":{
+             "day":1,
+             "month":10,
+             "year":2022
+          },
+          "ends_at":{
+             "day":31,
+             "month":1,
+             "year":2023
+          },
+          "company":"UTG Academy",
+          "company_linkedin_profile_url":"https://www.linkedin.com/company/utg-academy",
+          "title":"Teaching Assistant",
+          "description":"Skills: Teaching · Game Development · Python (Programming Language) · Communication",
+          "location":"North Vancouver, British Columbia, Canada · On-site",
+          "logo_url":"https://media.licdn.com/dms/image/C4D0BAQGJa-86j_q4PQ/company-logo_400_400/0/1631319372820?e=1717027200&v=beta&t=zYi3wGDYtSh1J2hOvGC5L1WYhQfvgbkcMnMpoHedYHM"
+       },
+       {
+          "starts_at":{
+             "day":1,
+             "month":7,
+             "year":2022
+          },
+          "ends_at":{
+             "day":30,
+             "month":6,
+             "year":2023
+          },
+          "company":"Unity",
+          "company_linkedin_profile_url":"https://www.linkedin.com/company/unity",
+          "title":"Game Developer",
+          "description":"None",
+          "location":"Remote",
+          "logo_url":"https://media.licdn.com/dms/image/D4D0BAQFoRUR2DxPJiw/company-logo_400_400/0/1682010178745/unity_logo?e=1717027200&v=beta&t=0zBnc0NZOdQivbvEVDUWbJLVfPdEi8OVSawX38gYfeM"
+       },
+       {
+          "starts_at":{
+             "day":1,
+             "month":9,
+             "year":2021
+          },
+          "ends_at":{
+             "day":30,
+             "month":6,
+             "year":2022
+          },
+          "company":"VEX Robotics",
+          "company_linkedin_profile_url":"https://www.linkedin.com/company/vexrobotics",
+          "title":"TenTon Robotics",
+          "description":"TenTon Robotics Team 10012S\nVEX World Championship Qualifier",
+          "location":"West Vancouver, British Columbia, Canada",
+          "logo_url":"https://media.licdn.com/dms/image/C4E0BAQGXoZ0WNpBRtQ/company-logo_400_400/0/1630590129452/vex_robotics_logo?e=1717027200&v=beta&t=2BlfILCxCI-zUBI_Z-1bdDmmKgfiwcQqeaU7SyC_Ggg"
+       }
+    ],
+    "education":[
+       {
+          "starts_at":{
+             "day":1,
+             "month":8,
+             "year":2023
+          },
+          "ends_at":{
+             "day":30,
+             "month":6,
+             "year":2025
+          },
+          "field_of_study":"Mathematics",
+          "degree_name":"IB Diploma",
+          "school":"International Baccalaureate",
+          "school_linkedin_profile_url":"https://www.linkedin.com/company/22614/",
+          "description":"None",
+          "logo_url":"https://media.licdn.com/dms/image/C4E0BAQH1trVeMU7kyA/company-logo_400_400/0/1631325578760?e=1717027200&v=beta&t=cFQ0jm68ciM2wtPaIjH0sHz7WslwTcKtOX2Qm-TVNxg",
+          "grade":"11-12",
+          "activities_and_societies":"None"
+       },
+       {
+          "starts_at":{
+             "day":1,
+             "month":9,
+             "year":2020
+          },
+          "ends_at":{
+             "day":30,
+             "month":6,
+             "year":2025
+          },
+          "field_of_study":"None",
+          "degree_name":"None",
+          "school":"West Vancouver Secondary School",
+          "school_linkedin_profile_url":"None",
+          "description":"None",
+          "logo_url":"None",
+          "grade":"8-12",
+          "activities_and_societies":"None"
+       }
+    ],
+    "languages":[
+       "English",
+       "Mandarin"
+    ],
+    "accomplishment_organisations":[
+       {
+          "starts_at":{
+             "day":1,
+             "month":9,
+             "year":2023
+          },
+          "ends_at":"None",
+          "org_name":"Computer Science Club @WVSS",
+          "title":"Leader, founder",
+          "description":"The computer science club at West Vancouver Secondary School provides students opportunity to delve into computer science and the chance to participate competitive programming with learner diverse range of algorithms, also a better learning environment of discussion and engagement."
+       },
+       {
+          "starts_at":{
+             "day":1,
+             "month":8,
+             "year":2023
+          },
+          "ends_at":"None",
+          "org_name":"Happy Hackers Foundation",
+          "title":"Vice President",
+          "description":"Happy Hackers Foundation is a nonprofit organization, aimed to promote coding to young generation. We periodically run online coding contests including Hackathon and competitive programming on DMOJ."
+       }
+    ],
+    "accomplishment_publications":[
+       
+    ],
+    "accomplishment_honors_awards":[
+       {
+          "title":"USA Computing Olympiad Platinum Division",
+          "issuer":"USA Computing Olympiad Committee",
+          "issued_on":{
+             "day":1,
+             "month":2,
+             "year":2024
+          },
+          "description":"Qualified for the platinum division with the score 947/1000 in the gold division \n\nRanked 133/385 among pre-college students in the platinum division"
+       },
+       {
+          "title":"Canadian Open Mathematics Challenge Performance with Distinction ",
+          "issuer":"Canadian Mathematical Society ",
+          "issued_on":{
+             "day":1,
+             "month":12,
+             "year":2023
+          },
+          "description":"90 percentile Canadian wide"
+       }
+    ],
+    "accomplishment_patents":[
+       
+    ],
+    "accomplishment_courses":[
+       {
+          "name":"AP Calculus BC",
+          "number":"None"
+       },
+       {
+          "name":"AP Computer Science A",
+          "number":"None"
+       }
+    ],
+    "accomplishment_projects":[
+       {
+          "starts_at":{
+             "day":1,
+             "month":1,
+             "year":2024
+          },
+          "ends_at":"None",
+          "title":"Resumize",
+          "description":"The project is an intelligent tool that helps job seekers customize their resumes for specific company requirements using the GPT API. It automatically modifies resumes to align with employer criteria, enhancing the chances of landing job interviews. I am responsible for designing and developing the project.",
+          "url":"None"
+       },
+       {
+          "starts_at":{
+             "day":1,
+             "month":12,
+             "year":2023
+          },
+          "ends_at":"None",
+          "title":"AlphaDB",
+          "description":"AlphaDB is a database development project combining efficient data management through B+ Trees in C++ with a custom-designed programming language for enhanced user interaction. Focused on speed and reliability, it offers a unique approach to data storage, balancing advanced technical efficiency with user-friendly syntax.",
+          "url":"None"
+       }
+    ],
+    "accomplishment_test_scores":[
+       
+    ],
+    "volunteer_work":[
+       {
+          "starts_at":{
+             "day":1,
+             "month":10,
+             "year":2022
+          },
+          "ends_at":{
+             "day":30,
+             "month":4,
+             "year":2023
+          },
+          "title":"Instructor",
+          "cause":"Education",
+          "company":"Coding Girls",
+          "company_linkedin_profile_url":"https://www.linkedin.com/company/74290942/",
+          "description":"Teaching coding to children with leukemia online",
+          "logo_url":"https://media.licdn.com/dms/image/C560BAQEB1OfXObHz_g/company-logo_400_400/0/1630661216411?e=1717027200&v=beta&t=BjMMZWmqSEQC4hVkxhOJZojH0O2faEIgFk9NAD9sxnM"
+       },
+       {
+          "starts_at":{
+             "day":1,
+             "month":10,
+             "year":2022
+          },
+          "ends_at":{
+             "day":31,
+             "month":1,
+             "year":2023
+          },
+          "title":"Coding Class Teaching Assistant",
+          "cause":"Education",
+          "company":"UTG Academy",
+          "company_linkedin_profile_url":"https://www.linkedin.com/company/9470324/",
+          "description":"None",
+          "logo_url":"https://media.licdn.com/dms/image/C4D0BAQGJa-86j_q4PQ/company-logo_400_400/0/1631319372820?e=1717027200&v=beta&t=zYi3wGDYtSh1J2hOvGC5L1WYhQfvgbkcMnMpoHedYHM"
+       }
+    ],
+    "certifications":[
+       
+    ],
+    "connections":243,
+    "people_also_viewed":[
+       
+    ],
+    "recommendations":[
+       
+    ],
+    "activities":[
+       
+    ],
+    "similarly_named_profiles":[
+       
+    ],
+    "articles":[
+       
+    ],
+    "groups":[
+       
+    ],
+    "skills":[
+       "Wolfram Language",
+       "Research and Development (R&D)",
+       "ChatGPT",
+       "Natural Language Processing (NLP)",
+       "Programming Languages",
+       "User Interaction",
+       "Database Development",
+       "Software Project Management",
+       "Problem Solving",
+       "Algorithms",
+       "Cross-team Collaboration",
+       "C++",
+       "Illustration",
+       "Software Development",
+       "Software Design",
+       "Social Media",
+       "Teamwork",
+       "Communication",
+       "Game Development",
+       "Mathematics",
+       "Mathematical Modeling",
+       "Dynamic Programming",
+       "Artificial Intelligence (AI)",
+       "Unity",
+       "Leadership",
+       "Python (Programming Language)",
+       "Data Structures",
+       "Competitive Programming",
+       "Mechanical Engineering",
+       "Robotics",
+       "User Interface Design",
+       "Robot Programming",
+       "Teaching",
+       "Java",
+       "C#",
+       "Game Design",
+       "JavaScript",
+       "React.js",
+       "Web Development",
+       "Collaborative Problem Solving",
+       "Public Speaking",
+       "Presentation Skills",
+       "Research Skills"
+    ],
+    "inferred_salary":{
+       "min":"None",
+       "max":"None"
+    },
+    "gender":"None",
+    "birth_date":"None",
+    "industry":"None",
+    "extra":{
+       "github_profile_id":"None",
+       "twitter_profile_id":"None",
+       "facebook_profile_id":"None"
+    },
+    "interests":[
+       
+    ],
+    "personal_emails":[
+       
+    ],
+    "personal_numbers":[
+       
+    ]
+ }
