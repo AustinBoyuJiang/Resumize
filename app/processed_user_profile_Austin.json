@@ -1,0 +1,305 @@
+{
+   "full_name":"Austin Jiang",
+   "city":"West Vancouver",
+   "summary":"I am Austin, a Grade 11 IB Diploma student at West Vancouver Secondary School, specializing in competitive programming. My strong problem-solving skills are complemented by my passion for game development, where I create immersive experiences through compelling narratives and cutting-edge technology. Currently, I am diving into the world of artificial intelligence, focusing on developing applications that could significantly benefit society and enhance efficiency. I am always open to new challenges and opportunities for learning. Feel free to connect as we navigate this exciting world of technology together.",
+   "education":[
+      {
+         "starts_at":{
+            "day":1,
+            "month":8,
+            "year":2023
+         },
+         "ends_at":{
+            "day":30,
+            "month":6,
+            "year":2025
+         },
+         "degree_name":"IB Diploma",
+         "school":"International Baccalaureate",
+         "description":"field of study: Mathematics\n"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":9,
+            "year":2020
+         },
+         "ends_at":{
+            "day":30,
+            "month":6,
+            "year":2025
+         },
+         "degree_name":"None",
+         "school":"West Vancouver Secondary School",
+         "description":""
+      }
+   ],
+   "experiences":[
+      {
+         "starts_at":{
+            "day":1,
+            "month":9,
+            "year":2020
+         },
+         "ends_at":"None",
+         "company":"CodeForces",
+         "title":"Competitive Programmer",
+         "description":"",
+         "location":"Remote"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":8,
+            "year":2023
+         },
+         "ends_at":"None",
+         "company":"DMOJ: Modern Online Judge",
+         "title":"Contest Director",
+         "description":"Direct two rated contests for Happy Hackers Foundation",
+         "location":"Canada · Remote"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":10,
+            "year":2022
+         },
+         "ends_at":"None",
+         "company":"DMOJ: Modern Online Judge",
+         "title":"Problem Setter",
+         "description":"Skills: Problem Solving · Competitive Programming · Algorithms · Communication · C++",
+         "location":"Canada · Remote"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":9,
+            "year":2021
+         },
+         "ends_at":"None",
+         "company":"GitHub",
+         "title":"Full Stack Developer",
+         "description":"",
+         "location":"Remote"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":8,
+            "year":2023
+         },
+         "ends_at":"None",
+         "company":"Shad Canada",
+         "title":"Shad Alumni",
+         "description":"Skills: Communication",
+         "location":"Sudbury, Ontario, Canada · Remote"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":8,
+            "year":2023
+         },
+         "ends_at":{
+            "day":31,
+            "month":1,
+            "year":2024
+         },
+         "company":"Shad Canada",
+         "title":"Shad Ambassador",
+         "description":"Skills: Presentation Skills · Public Speaking · Communication",
+         "location":"None"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":7,
+            "year":2023
+         },
+         "ends_at":{
+            "day":31,
+            "month":7,
+            "year":2023
+         },
+         "company":"Shad Canada",
+         "title":"Shad Fellow",
+         "description":"Skills: Collaborative Problem Solving · Presentation Skills · Research Skills · Public Speaking · Communication",
+         "location":"Sudbury, Ontario, Canada · On-site"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":7,
+            "year":2023
+         },
+         "ends_at":{
+            "day":31,
+            "month":7,
+            "year":2023
+         },
+         "company":"Shad Canada",
+         "title":"Social Media Committee Member - SHAD Laurentian 2023",
+         "description":"As a member of the SHAD Laurentian 2023 Social Media Committee, I collaborated with a team to manage our campus's social media presence across Twitter, Instagram, and TikTok. We boosted visibility, fostered community, and effectively communicated with our audience through tailored content.",
+         "location":"Sudbury, Ontario, Canada · On-site"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":2,
+            "year":2023
+         },
+         "ends_at":"None",
+         "company":"UTG Academy",
+         "title":"Coding Instructor",
+         "description":"Coding instructor at UTG Academy, teaching game development with Python and Unity, Web Development",
+         "location":"North Vancouver, British Columbia, Canada · On-site"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":10,
+            "year":2022
+         },
+         "ends_at":{
+            "day":31,
+            "month":1,
+            "year":2023
+         },
+         "company":"UTG Academy",
+         "title":"Teaching Assistant",
+         "description":"Skills: Teaching · Game Development · Python (Programming Language) · Communication",
+         "location":"North Vancouver, British Columbia, Canada · On-site"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":7,
+            "year":2022
+         },
+         "ends_at":{
+            "day":30,
+            "month":6,
+            "year":2023
+         },
+         "company":"Unity",
+         "title":"Game Developer",
+         "description":"",
+         "location":"Remote"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":9,
+            "year":2021
+         },
+         "ends_at":{
+            "day":30,
+            "month":6,
+            "year":2022
+         },
+         "company":"VEX Robotics",
+         "title":"TenTon Robotics",
+         "description":"TenTon Robotics Team 10012S\nVEX World Championship Qualifier",
+         "location":"West Vancouver, British Columbia, Canada"
+      }
+   ],
+   "skills":[
+      "Wolfram Language",
+      "Research and Development (R&D)",
+      "ChatGPT",
+      "Natural Language Processing (NLP)",
+      "Programming Languages",
+      "User Interaction",
+      "Database Development",
+      "Software Project Management",
+      "Problem Solving",
+      "Algorithms",
+      "Cross-team Collaboration",
+      "C++",
+      "Illustration",
+      "Software Development",
+      "Software Design",
+      "Social Media",
+      "Teamwork",
+      "Communication",
+      "Game Development",
+      "Mathematics",
+      "Mathematical Modeling",
+      "Dynamic Programming",
+      "Artificial Intelligence (AI)",
+      "Unity",
+      "Leadership",
+      "Python (Programming Language)",
+      "Data Structures",
+      "Competitive Programming",
+      "Mechanical Engineering",
+      "Robotics",
+      "User Interface Design",
+      "Robot Programming",
+      "Teaching",
+      "Java",
+      "C#",
+      "Game Design",
+      "JavaScript",
+      "React.js",
+      "Web Development",
+      "Collaborative Problem Solving",
+      "Public Speaking",
+      "Presentation Skills",
+      "Research Skills"
+   ],
+   "email":"",
+   "number":"",
+   "province":"British Columbia",
+   "country":"Canada",
+   "projects":[
+      {
+         "starts_at":{
+            "day":1,
+            "month":1,
+            "year":2024
+         },
+         "ends_at":"None",
+         "title":"Resumize",
+         "description":"The project is an intelligent tool that helps job seekers customize their resumes for specific company requirements using the GPT API. It automatically modifies resumes to align with employer criteria, enhancing the chances of landing job interviews. I am responsible for designing and developing the project.",
+         "url":"None"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":12,
+            "year":2023
+         },
+         "ends_at":"None",
+         "title":"AlphaDB",
+         "description":"AlphaDB is a database development project combining efficient data management through B+ Trees in C++ with a custom-designed programming language for enhanced user interaction. Focused on speed and reliability, it offers a unique approach to data storage, balancing advanced technical efficiency with user-friendly syntax.",
+         "url":"None"
+      }
+   ],
+   "honors_and_awards":[
+      {
+         "title":"USA Computing Olympiad Platinum Division",
+         "issuer":"USA Computing Olympiad Committee",
+         "issued_on":{
+            "day":1,
+            "month":2,
+            "year":2024
+         },
+         "description":"Qualified for the platinum division with the score 947/1000 in the gold division \n\nRanked 133/385 among pre-college students in the platinum division"
+      },
+      {
+         "title":"Canadian Open Mathematics Challenge Performance with Distinction ",
+         "issuer":"Canadian Mathematical Society ",
+         "issued_on":{
+            "day":1,
+            "month":12,
+            "year":2023
+         },
+         "description":"90 percentile Canadian wide"
+      }
+   ],
+   "publications":[
+      
+   ]
+}

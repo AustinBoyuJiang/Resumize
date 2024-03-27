@@ -1,0 +1,305 @@
+{
+    "full_name":"Austin Jiang",
+    "city":"West Vancouver",
+    "summary":"I am Austin, a Grade 11 IB Diploma student at West Vancouver Secondary School, specializing in competitive programming. My strong problem-solving skills are complemented by my passion for game development, where I create immersive experiences through compelling narratives and cutting-edge technology. Currently, I am diving into the world of artificial intelligence, focusing on developing applications that could significantly benefit society and enhance efficiency. I am always open to new challenges and opportunities for learning. Feel free to connect as we navigate this exciting world of technology together.",
+    "education":[
+       {
+          "starts_at":{
+             "day":1,
+             "month":8,
+             "year":2023
+          },
+          "ends_at":{
+             "day":30,
+             "month":6,
+             "year":2025
+          },
+          "degree_name":"IB Diploma",
+          "school":"International Baccalaureate",
+          "description":"- Developed a project, \"AlphaDB,\" focusing on database development and user interaction, utilizing C++ and a custom programming language, showcasing strong technical skills and innovation in data management.\n- Led a team in the creation of \"Resumize,\" an intelligent tool using the GPT API to tailor resumes for specific job requirements, demonstrating a proactive approach to enhancing job search outcomes through technology.\n- Achieved Platinum Division qualification in the USA Computing Olympiad with a score of 947/1000, showcasing exceptional problem-solving abilities and competitive programming skills."
+       },
+       {
+          "starts_at":{
+             "day":1,
+             "month":9,
+             "year":2020
+          },
+          "ends_at":{
+             "day":30,
+             "month":6,
+             "year":2025
+          },
+          "degree_name":"None",
+          "school":"West Vancouver Secondary School",
+          "description":"- Developed \"AlphaDB,\" a database project utilizing C++ and a custom programming language for efficient data management, showcasing strong technical skills and innovation.\n- Led a team to create \"Resumize,\" an intelligent tool using the GPT API to tailor resumes for specific job requirements, demonstrating proactive problem-solving skills.\n- Achieved Platinum Division qualification in the USA Computing Olympiad with a score of 947/1000, highlighting exceptional problem-solving abilities and competitive programming skills."
+       }
+    ],
+    "experiences":[
+       {
+          "starts_at":{
+             "day":1,
+             "month":9,
+             "year":2020
+          },
+          "ends_at":"None",
+          "company":"CodeForces",
+          "title":"Competitive Programmer",
+          "description":"- Developed \"AlphaDB,\" a database project utilizing C++ and a custom programming language, focusing on efficient data management through B+ Trees, showcasing advanced technical skills in data storage.\n- Led a team to create \"Resumize,\" an intelligent tool using the GPT API to tailor resumes for specific job requirements, demonstrating problem-solving skills and innovation in user interaction.\n- Achieved Platinum Division qualification in the USA Computing Olympiad with a score of 947/1000, showcasing exceptional problem-solving abilities and competitive programming skills.",
+          "location":"Remote"
+       },
+       {
+          "starts_at":{
+             "day":1,
+             "month":8,
+             "year":2023
+          },
+          "ends_at":"None",
+          "company":"DMOJ: Modern Online Judge",
+          "title":"Contest Director",
+          "description":"- Developed \"AlphaDB,\" a database project utilizing C++ and a custom programming language, focusing on efficient data management through B+ Trees, showcasing advanced technical skills in data storage.\n- Led a team to create \"Resumize,\" an intelligent tool using the GPT API to tailor resumes for specific job requirements, demonstrating problem-solving skills and innovation in user interaction.\n- Achieved Platinum Division qualification in the USA Computing Olympiad with a score of 947/1000, showcasing exceptional problem-solving abilities and competitive programming skills.",
+          "location":"Canada · Remote"
+       },
+       {
+          "starts_at":{
+             "day":1,
+             "month":10,
+             "year":2022
+          },
+          "ends_at":"None",
+          "company":"DMOJ: Modern Online Judge",
+          "title":"Problem Setter",
+          "description":"- Led a team in developing \"AlphaDB,\" a database project focusing on efficient data management through B+ Trees in C++ and a custom programming language, showcasing advanced technical skills in data storage.\n- Spearheaded the creation of \"Resumize,\" an intelligent tool utilizing the GPT API to tailor resumes for specific job requirements, demonstrating strong problem-solving skills and innovation in user interaction.\n- Achieved Platinum Division qualification in the USA Computing Olympiad with a score of 947/1000, showcasing exceptional problem-solving abilities and competitive programming skills.",
+          "location":"Canada · Remote"
+       },
+       {
+          "starts_at":{
+             "day":1,
+             "month":9,
+             "year":2021
+          },
+          "ends_at":"None",
+          "company":"GitHub",
+          "title":"Full Stack Developer",
+          "description":"- Developed \"AlphaDB,\" a database project focusing on efficient data management through B+ Trees in C++ and a custom programming language, showcasing advanced technical skills in data storage.\n- Led a team in creating \"Resumize,\" an intelligent tool utilizing the GPT API to tailor resumes for specific job requirements, demonstrating strong problem-solving skills and innovation in user interaction.\n- Achieved Platinum Division qualification in the USA Computing Olympiad with a score of 947/1000, showcasing exceptional problem-solving abilities and competitive programming skills.",
+          "location":"Remote"
+       },
+       {
+          "starts_at":{
+             "day":1,
+             "month":8,
+             "year":2023
+          },
+          "ends_at":"None",
+          "company":"Shad Canada",
+          "title":"Shad Alumni",
+          "description":"- Developed \"AlphaDB,\" a database project focusing on efficient data management through B+ Trees in C++ and a custom programming language, showcasing advanced technical skills in data storage.\n- Led a team in creating \"Resumize,\" an intelligent tool using the GPT API to tailor resumes for specific job requirements, demonstrating problem-solving skills and innovation in user interaction.\n- Achieved Platinum Division qualification in the USA Computing Olympiad with a score of 947/1000, showcasing exceptional problem-solving abilities and competitive programming skills.",
+          "location":"Sudbury, Ontario, Canada · Remote"
+       },
+       {
+          "starts_at":{
+             "day":1,
+             "month":8,
+             "year":2023
+          },
+          "ends_at":{
+             "day":31,
+             "month":1,
+             "year":2024
+          },
+          "company":"Shad Canada",
+          "title":"Shad Ambassador",
+          "description":"- Developed \"AlphaDB,\" a database project focusing on efficient data management through B+ Trees in C++ and a custom programming language, showcasing advanced technical skills in data storage.\n- Led a team in creating \"Resumize,\" an intelligent tool utilizing the GPT API to tailor resumes for specific job requirements, demonstrating problem-solving skills and innovation in user interaction.\n- Achieved Platinum Division qualification in the USA Computing Olympiad with a score of 947/1000, showcasing exceptional problem-solving abilities and competitive programming skills.",
+          "location":"None"
+       },
+       {
+          "starts_at":{
+             "day":1,
+             "month":7,
+             "year":2023
+          },
+          "ends_at":{
+             "day":31,
+             "month":7,
+             "year":2023
+          },
+          "company":"Shad Canada",
+          "title":"Shad Fellow",
+          "description":"- Developed \"AlphaDB,\" a database project focusing on efficient data management through B+ Trees in C++ and a custom programming language, showcasing advanced technical skills in data storage.\n- Led a team in creating \"Resumize,\" an intelligent tool utilizing the GPT API to tailor resumes for specific job requirements, demonstrating problem-solving skills and innovation in user interaction.\n- Achieved Platinum Division qualification in the USA Computing Olympiad with a score of 947/1000, showcasing exceptional problem-solving abilities and competitive programming skills.",
+          "location":"Sudbury, Ontario, Canada · On-site"
+       },
+       {
+          "starts_at":{
+             "day":1,
+             "month":7,
+             "year":2023
+          },
+          "ends_at":{
+             "day":31,
+             "month":7,
+             "year":2023
+          },
+          "company":"Shad Canada",
+          "title":"Social Media Committee Member - SHAD Laurentian 2023",
+          "description":"- Developed \"AlphaDB,\" a database project focusing on efficient data management through B+ Trees in C++ and a custom programming language, showcasing advanced technical skills in data storage.\n- Led a team in creating \"Resumize,\" an intelligent tool using the GPT API to tailor resumes for specific job requirements, demonstrating problem-solving skills and innovation in user interaction.\n- Achieved Platinum Division qualification in the USA Computing Olympiad with a score of 947/1000, showcasing exceptional problem-solving abilities and competitive programming skills.",
+          "location":"Sudbury, Ontario, Canada · On-site"
+       },
+       {
+          "starts_at":{
+             "day":1,
+             "month":2,
+             "year":2023
+          },
+          "ends_at":"None",
+          "company":"UTG Academy",
+          "title":"Coding Instructor",
+          "description":"- Developed \"AlphaDB,\" a database project focusing on efficient data management through B+ Trees in C++ and a custom programming language, showcasing advanced technical skills in data storage.\n- Led a team in creating \"Resumize,\" an intelligent tool using the GPT API to tailor resumes for specific job requirements, demonstrating problem-solving skills and innovation in user interaction.\n- Achieved Platinum Division qualification in the USA Computing Olympiad with a score of 947/1000, showcasing exceptional problem-solving abilities and competitive programming skills.",
+          "location":"North Vancouver, British Columbia, Canada · On-site"
+       },
+       {
+          "starts_at":{
+             "day":1,
+             "month":10,
+             "year":2022
+          },
+          "ends_at":{
+             "day":31,
+             "month":1,
+             "year":2023
+          },
+          "company":"UTG Academy",
+          "title":"Teaching Assistant",
+          "description":"- Developed \"AlphaDB,\" a database project focusing on efficient data management through B+ Trees in C++ and a custom programming language, showcasing advanced technical skills in data storage.\n- Led a team in creating \"Resumize,\" an intelligent tool using the GPT API to tailor resumes for specific job requirements, demonstrating problem-solving skills and innovation in user interaction.\n- Achieved Platinum Division qualification in the USA Computing Olympiad with a score of 947/1000, showcasing exceptional problem-solving abilities and competitive programming skills.",
+          "location":"North Vancouver, British Columbia, Canada · On-site"
+       },
+       {
+          "starts_at":{
+             "day":1,
+             "month":7,
+             "year":2022
+          },
+          "ends_at":{
+             "day":30,
+             "month":6,
+             "year":2023
+          },
+          "company":"Unity",
+          "title":"Game Developer",
+          "description":"- Developed \"AlphaDB,\" a database project focusing on efficient data management through B+ Trees in C++ and a custom programming language, showcasing advanced technical skills in data storage.\n- Led a team in creating \"Resumize,\" an intelligent tool using the GPT API to tailor resumes for specific job requirements, demonstrating problem-solving skills and innovation in user interaction.\n- Achieved Platinum Division qualification in the USA Computing Olympiad with a score of 947/1000, showcasing exceptional problem-solving abilities and competitive programming skills.",
+          "location":"Remote"
+       },
+       {
+          "starts_at":{
+             "day":1,
+             "month":9,
+             "year":2021
+          },
+          "ends_at":{
+             "day":30,
+             "month":6,
+             "year":2022
+          },
+          "company":"VEX Robotics",
+          "title":"TenTon Robotics",
+          "description":"- Developed \"AlphaDB,\" a database project focusing on efficient data management through B+ Trees in C++ and a custom programming language, showcasing advanced technical skills in data storage.\n- Led a team in creating \"Resumize,\" an intelligent tool using the GPT API to tailor resumes for specific job requirements, demonstrating problem-solving skills and innovation in user interaction.\n- Achieved Platinum Division qualification in the USA Computing Olympiad with a score of 947/1000, showcasing exceptional problem-solving abilities and competitive programming skills.",
+          "location":"West Vancouver, British Columbia, Canada"
+       }
+    ],
+    "skills":[
+       "Wolfram Language",
+       "Research and Development (R&D)",
+       "ChatGPT",
+       "Natural Language Processing (NLP)",
+       "Programming Languages",
+       "User Interaction",
+       "Database Development",
+       "Software Project Management",
+       "Problem Solving",
+       "Algorithms",
+       "Cross-team Collaboration",
+       "C++",
+       "Illustration",
+       "Software Development",
+       "Software Design",
+       "Social Media",
+       "Teamwork",
+       "Communication",
+       "Game Development",
+       "Mathematics",
+       "Mathematical Modeling",
+       "Dynamic Programming",
+       "Artificial Intelligence (AI)",
+       "Unity",
+       "Leadership",
+       "Python (Programming Language)",
+       "Data Structures",
+       "Competitive Programming",
+       "Mechanical Engineering",
+       "Robotics",
+       "User Interface Design",
+       "Robot Programming",
+       "Teaching",
+       "Java",
+       "C#",
+       "Game Design",
+       "JavaScript",
+       "React.js",
+       "Web Development",
+       "Collaborative Problem Solving",
+       "Public Speaking",
+       "Presentation Skills",
+       "Research Skills"
+    ],
+    "email":"",
+    "number":"",
+    "province":"British Columbia",
+    "country":"Canada",
+    "projects":[
+       {
+          "starts_at":{
+             "day":1,
+             "month":1,
+             "year":2024
+          },
+          "ends_at":"None",
+          "title":"Resumize",
+          "description":"- Developed \"AlphaDB,\" a database project utilizing C++ and a custom programming language, focusing on efficient data management through B+ Trees, showcasing advanced technical skills in data storage.\n- Led a team in creating \"Resumize,\" an intelligent tool using the GPT API to tailor resumes for specific job requirements, demonstrating proactive problem-solving skills.\n- Achieved Platinum Division qualification in the USA Computing Olympiad with a score of 947/1000, showcasing exceptional problem-solving abilities and competitive programming skills.",
+          "url":"None"
+       },
+       {
+          "starts_at":{
+             "day":1,
+             "month":12,
+             "year":2023
+          },
+          "ends_at":"None",
+          "title":"AlphaDB",
+          "description":"- Developed \"AlphaDB,\" a database project utilizing C++ and a custom programming language, focusing on efficient data management through B+ Trees, showcasing advanced technical skills in data storage.\n- Led a team in creating \"Resumize,\" an intelligent tool using the GPT API to tailor resumes for specific job requirements, demonstrating proactive problem-solving skills.\n- Achieved Platinum Division qualification in the USA Computing Olympiad with a score of 947/1000, showcasing exceptional problem-solving abilities and competitive programming skills.",
+          "url":"None"
+       }
+    ],
+    "honors_and_awards":[
+       {
+          "title":"USA Computing Olympiad Platinum Division",
+          "issuer":"USA Computing Olympiad Committee",
+          "issued_on":{
+             "day":1,
+             "month":2,
+             "year":2024
+          },
+          "description":"- Achieved Platinum Division qualification in the USA Computing Olympiad with a score of 947/1000, demonstrating exceptional problem-solving abilities and competitive programming skills.\n- Led a team in developing \"AlphaDB,\" a database project focusing on efficient data management through B+ Trees in C++, showcasing advanced technical skills in data storage.\n- Spearheaded the creation of \"Resumize,\" an intelligent tool utilizing the GPT API to tailor resumes for specific job requirements, demonstrating strong problem-solving skills and innovation in user interaction."
+       },
+       {
+          "title":"Canadian Open Mathematics Challenge Performance with Distinction ",
+          "issuer":"Canadian Mathematical Society ",
+          "issued_on":{
+             "day":1,
+             "month":12,
+             "year":2023
+          },
+          "description":"- Achieved Platinum Division qualification in the USA Computing Olympiad with a score of 947/1000, demonstrating exceptional problem-solving abilities and competitive programming skills.\n- Led a team in developing \"AlphaDB,\" a database project focusing on efficient data management through B+ Trees in C++, showcasing advanced technical skills in data storage.\n- Spearheaded the creation of \"Resumize,\" an intelligent tool utilizing the GPT API to tailor resumes for specific job requirements, demonstrating strong problem-solving skills and innovation in user interaction."
+       }
+    ],
+    "publications":[
+       
+    ]
+ }
