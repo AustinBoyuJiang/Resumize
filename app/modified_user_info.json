@@ -300,6 +300,16 @@
        }
     ],
     "publications":[
-       
+      {
+         "name":"Math Led to a Health Emergency",
+         "publisher":"Polar Expressions Publishing",
+         "published_on":{
+            "day":15,
+            "month":4,
+            "year":2021
+         },
+         "description":"My short story \"Math Led to a Health Emergency\" won the National Student Short-Story Contest Top Entry award and was published in the 2021 \"The Quiet\" magazine.",
+         "url":"None"
+      }
     ]
  }
